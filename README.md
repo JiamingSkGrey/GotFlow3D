@@ -44,7 +44,7 @@ where `exp_path` is the experiment folder name, `num_epochs` is the number of ep
 
 ##### Test
 
-```python
+```shell
 python test.py --exp_path=test --iters=8 --root=./ --weights=./experiments/weights_GotFlow3D/checkpoints/best_checkpoint.params
 ```
 
@@ -52,4 +52,12 @@ It takes about 0.1s to estimate the flow of one sample containing about 2000 par
 
 ## Citation
 
-Coming soon.
+If you find our work useful in your research, please consider citing:
+
+```
+@article{
+  title={{GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking}},
+  author={Liang, Jiaming and Cai, Shengze and Xu, Chao},
+}
+```
+
