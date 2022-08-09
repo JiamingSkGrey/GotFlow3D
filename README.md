@@ -1,6 +1,6 @@
 # GotFlow3D
 
-This repository contains the source code for our paper: "GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking".
+This repository contains the source code GotFlow3D v1.0 for our paper: "GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking".
 
 ## Requirements
 
