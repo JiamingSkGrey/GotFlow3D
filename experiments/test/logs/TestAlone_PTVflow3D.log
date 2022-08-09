@@ -1,0 +1,4 @@
+2022-08-09 15:14:48,580: INFO: [test.py:84]: Namespace(base_scales=0.25, corr_levels=3, dataset='PTVflow3D', exp_path='test', gpus='0,1,2,3', iters=8, max_points=8192, num_points=2048, root='./', test_batch_size=16, truncate_k=2048, weights='./experiments/weights_GotFlow3D/checkpoints/best_checkpoint.params')
+2022-08-09 15:14:50,828: INFO: [test.py:104]: Load checkpoint from ./experiments/weights_GotFlow3D/checkpoints/best_checkpoint.params
+2022-08-09 15:14:50,828: INFO: [test.py:105]: Checkpoint epoch 40
+2022-08-09 15:14:53,341: INFO: [test.py:152]: Test Result: EPE: 0.00519 Outlier: 0.04849 Acc3dRelax: 0.95151 Acc3dStrict: 0.93359
